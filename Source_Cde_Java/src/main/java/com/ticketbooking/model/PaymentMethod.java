@@ -1,0 +1,1 @@
+package com.ticketbooking.model; public enum PaymentMethod { ONLINE, COUNTER }
